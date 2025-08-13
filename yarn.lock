@@ -460,12 +460,9 @@
   integrity sha1-xHKry6DFGFqqStQHAUbpUhPGhRE=
 
 "@nomiclabs/hardhat-waffle@^2.0.0":
-  version "2.0.1"
-  resolved "https://registry.npm.taobao.org/@nomiclabs/hardhat-waffle/download/@nomiclabs/hardhat-waffle-2.0.1.tgz#5d43654fba780720c5033dea240fe14f70ef4bd2"
-  integrity sha1-XUNlT7p4ByDFAz3qJA/hT3DvS9I=
-  dependencies:
-    "@types/sinon-chai" "^3.2.3"
-    "@types/web3" "1.0.19"
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/@nomiclabs/hardhat-waffle/-/hardhat-waffle-2.0.6.tgz#d11cb063a5f61a77806053e54009c40ddee49a54"
+  integrity sha512-+Wz0hwmJGSI17B+BhU/qFRZ1l6/xMW82QGXE/Gi+WTmwgJrQefuBs1lIf7hzQ1hLk6hpkvb/zwcNkpVKRYTQYg==
 
 "@openzeppelin/contracts@3.4.2":
   version "3.4.2"
@@ -626,13 +623,6 @@
   resolved "https://registry.npm.taobao.org/@types/async-lock/download/@types/async-lock-1.1.2.tgz#cbc26a34b11b83b28f7783a843c393b443ef8bef"
   integrity sha1-y8JqNLEbg7KPd4OoQ8OTtEPvi+8=
 
-"@types/bn.js@*", "@types/bn.js@^5.1.0":
-  version "5.1.0"
-  resolved "https://registry.npm.taobao.org/@types/bn.js/download/@types/bn.js-5.1.0.tgz#32c5d271503a12653c62cf4d2b45e6eab8cebc68"
-  integrity sha1-MsXScVA6EmU8Ys9NK0Xm6rjOvGg=
-  dependencies:
-    "@types/node" "*"
-
 "@types/bn.js@^4.11.3", "@types/bn.js@^4.11.5":
   version "4.11.6"
   resolved "https://registry.npm.taobao.org/@types/bn.js/download/@types/bn.js-4.11.6.tgz#c306c70d9358aaea33cd4eda092a742b9505967c"
@@ -640,7 +630,14 @@
   dependencies:
     "@types/node" "*"
 
-"@types/chai@*", "@types/chai@^4.2.16":
+"@types/bn.js@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.npm.taobao.org/@types/bn.js/download/@types/bn.js-5.1.0.tgz#32c5d271503a12653c62cf4d2b45e6eab8cebc68"
+  integrity sha1-MsXScVA6EmU8Ys9NK0Xm6rjOvGg=
+  dependencies:
+    "@types/node" "*"
+
+"@types/chai@^4.2.16":
   version "4.2.16"
   resolved "https://registry.npm.taobao.org/@types/chai/download/@types/chai-4.2.16.tgz?cache=0&sync_timestamp=1617390997822&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fchai%2Fdownload%2F%40types%2Fchai-4.2.16.tgz#f09cc36e18d28274f942e7201147cce34d97e8c8"
   integrity sha1-8JzDbhjSgnT5QucgEUfM402X6Mg=
@@ -710,39 +707,6 @@
   integrity sha1-+zqmGhhIrZfXQl/53Lp4RUn8paQ=
   dependencies:
     "@types/node" "*"
-
-"@types/sinon-chai@^3.2.3":
-  version "3.2.5"
-  resolved "https://registry.npm.taobao.org/@types/sinon-chai/download/@types/sinon-chai-3.2.5.tgz#df21ae57b10757da0b26f512145c065f2ad45c48"
-  integrity sha1-3yGuV7EHV9oLJvUSFFwGXyrUXEg=
-  dependencies:
-    "@types/chai" "*"
-    "@types/sinon" "*"
-
-"@types/sinon@*":
-  version "9.0.11"
-  resolved "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-9.0.11.tgz#7af202dda5253a847b511c929d8b6dda170562eb"
-  integrity sha1-evIC3aUlOoR7URySnYtt2hcFYus=
-  dependencies:
-    "@types/sinonjs__fake-timers" "*"
-
-"@types/sinonjs__fake-timers@*":
-  version "6.0.2"
-  resolved "https://registry.npm.taobao.org/@types/sinonjs__fake-timers/download/@types/sinonjs__fake-timers-6.0.2.tgz?cache=0&sync_timestamp=1613386687173&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fsinonjs__fake-timers%2Fdownload%2F%40types%2Fsinonjs__fake-timers-6.0.2.tgz#3a84cf5ec3249439015e14049bd3161419bf9eae"
-  integrity sha1-OoTPXsMklDkBXhQEm9MWFBm/nq4=
-
-"@types/underscore@*":
-  version "1.11.1"
-  resolved "https://registry.npm.taobao.org/@types/underscore/download/@types/underscore-1.11.1.tgz#5b773d04c44897137485615dbef56a2919b9fa5a"
-  integrity sha1-W3c9BMRIlxN0hWFdvvVqKRm5+lo=
-
-"@types/web3@1.0.19":
-  version "1.0.19"
-  resolved "https://registry.npm.taobao.org/@types/web3/download/@types/web3-1.0.19.tgz#46b85d91d398ded9ab7c85a5dd57cb33ac558924"
-  integrity sha1-RrhdkdOY3tmrfIWl3VfLM6xViSQ=
-  dependencies:
-    "@types/bn.js" "*"
-    "@types/underscore" "*"
 
 "@yarnpkg/lockfile@^1.1.0":
   version "1.1.0"
