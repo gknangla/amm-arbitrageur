@@ -5430,9 +5430,9 @@ lodash.assign@^4.0.3, lodash.assign@^4.0.6:
   integrity sha512-hFuH8TY+Yji7Eja3mGiuAxBqLagejScbG8GbG0j6o9vzn0YL14My+ktnqtZgFTosKymC9/44wP6s7xyuLfnClw==
 
 lodash.combinations@^18.10.0:
-  version "18.10.0"
-  resolved "https://registry.npm.taobao.org/lodash.combinations/download/lodash.combinations-18.10.0.tgz#9b8702b86f090a33cd8a07831809ca2f496b82a9"
-  integrity sha1-m4cCuG8JCjPNigeDGAnKL0lrgqk=
+  version "18.11.1"
+  resolved "https://registry.yarnpkg.com/lodash.combinations/-/lodash.combinations-18.11.1.tgz#4b55cba7f01f6a8fd889a15fe6f57f0e61a77b4f"
+  integrity sha512-0jtulyUQA1My13JuMR23MHqsMk8pQswcy+fO0jTKRp41bi+dDWflv/Ct4qRW6CcbLkk2Qi3PZyzx+tqgqSYLug==
 
 lodash@4.17.20:
   version "4.17.20"
