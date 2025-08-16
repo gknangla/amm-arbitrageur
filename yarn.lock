@@ -826,17 +826,20 @@
   dependencies:
     defer-to-connect "^2.0.0"
 
+"@typechain/ethers-v5@^11.0.0":
+  version "11.1.2"
+  resolved "https://registry.yarnpkg.com/@typechain/ethers-v5/-/ethers-v5-11.1.2.tgz#82510c1744f37a2f906b9e0532ac18c0b74ffe69"
+  integrity sha512-ID6pqWkao54EuUQa0P5RgjvfA3MYqxUQKpbGKERbsjBW5Ra7EIXvbMlPp2pcP5IAdUkyMCFYsP2SN5q7mPdLDQ==
+  dependencies:
+    lodash "^4.17.15"
+    ts-essentials "^7.0.1"
+
 "@typechain/ethers-v5@^2.0.0":
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@typechain/ethers-v5/-/ethers-v5-2.0.0.tgz#cd3ca1590240d587ca301f4c029b67bfccd08810"
   integrity sha512-0xdCkyGOzdqh4h5JSf+zoWx85IusEjDcPIwNEHP8mrWSnCae4rvrqB+/gtpdNfX7zjlFlZiMeePn2r63EI3Lrw==
   dependencies:
     ethers "^5.0.2"
-
-"@typechain/ethers-v5@^6.0.5":
-  version "6.0.5"
-  resolved "https://registry.npm.taobao.org/@typechain/ethers-v5/download/@typechain/ethers-v5-6.0.5.tgz#39bbf9baadd0e8d9efad9d16c60152b7cd9a467b"
-  integrity sha1-Obv5uq3Q6NnvrZ0WxgFSt82aRns=
 
 "@typechain/hardhat@^1.0.1":
   version "1.0.1"
