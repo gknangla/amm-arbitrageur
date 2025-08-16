@@ -638,10 +638,10 @@
   resolved "https://registry.yarnpkg.com/@nomiclabs/hardhat-waffle/-/hardhat-waffle-2.0.6.tgz#d11cb063a5f61a77806053e54009c40ddee49a54"
   integrity sha512-+Wz0hwmJGSI17B+BhU/qFRZ1l6/xMW82QGXE/Gi+WTmwgJrQefuBs1lIf7hzQ1hLk6hpkvb/zwcNkpVKRYTQYg==
 
-"@openzeppelin/contracts@3.4.2":
-  version "3.4.2"
-  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-3.4.2.tgz#d81f786fda2871d1eb8a8c5a73e455753ba53527"
-  integrity sha512-z0zMCjyhhp4y7XKAcDAi3Vgms4T2PstwBdahiO0+9NaGICQKjynK3wduSRplTgk4LXmoO1yfDGO5RbjKYxtuxA==
+"@openzeppelin/contracts@5.4.0":
+  version "5.4.0"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-5.4.0.tgz#177594bdb2d86c71f5d1052fe40cb4edb95fb20f"
+  integrity sha512-eCYgWnLg6WO+X52I16TZt8uEjbtdkgLC0SUX/xnAksjjrQI4Xfn4iBRoI5j55dmlOhDv1Y7BoR3cU7e3WWhC6A==
 
 "@resolver-engine/core@^0.3.3":
   version "0.3.3"
